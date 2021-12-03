@@ -34,4 +34,5 @@
 
 ## 3、勘误表
 
-1、P175和P176页：pdp.pdp_plot，应该为：pdb.pdp_plot
+P175倒数第17行：pdp.pdp_plot，应改为：pdb.pdp_plot
+P176页第5行：pdp.pdp_plot，应改为：pdb.pdp_plot
